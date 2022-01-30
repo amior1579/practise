@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+    background-color:rgb(24, 233, 87);
+    text-align: center; 
+}
+form{
+    color: rgb(233, 24, 24);
+    text-align: center; 
+    margin: 0px 0px 6px 0px;
+}
+
+ul{
+    color:rgb(24, 233, 87);
+    background-color:rgb(233, 24, 24);
+
+    text-align: right
+}
